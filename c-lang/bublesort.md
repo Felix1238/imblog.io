@@ -1,5 +1,7 @@
 ## 버블정렬
 
+666
+
 ```c
 #include <stdio.h>
 int main0902() {
