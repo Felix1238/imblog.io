@@ -1,2 +1,0 @@
-# imblog.io
-wook' blog
